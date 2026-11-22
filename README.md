@@ -31,11 +31,6 @@ To understand how mutual funds differ in size, cost, risk, and returns, so inves
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Mutual Fund Dashboard](Mutual_Fund_Dashboard_.png)
-
----
 
 ## 📈 Dashboard Highlights
 
